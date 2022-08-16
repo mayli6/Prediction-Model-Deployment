@@ -1,2 +1,2 @@
-# Codes to Deploy Web Application on Streamlit
-House Price Prediction
+# Deployment of Web Application on Streamlit
+The codes are written to receive inputs from users on Streamlit web application and estimate house price in King County, USA.
